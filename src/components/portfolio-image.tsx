@@ -9,7 +9,7 @@ export default function PortfolioImage() {
         //     <Image src={portfolio} className="w-full lg:w-1/2" alt="Chandra Asar" />
         // </div>
         // <div className="">
-            <Image src={portfolio} className="w-full max-w-xs md:max-w-md lg:max-w-lg rounded-lg shadow-xl object-cover" alt="Chandra Asar" />
+            <Image src={portfolio} className="w-full max-w-xs md:max-w-xs rounded-lg shadow-xl object-cover" alt="Chandra Asar" />
         // </div>
     )
 }

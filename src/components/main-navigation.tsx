@@ -38,7 +38,7 @@ export default function MainNavigation() {
         <div className="bg-neutral-700 text-white flex justify-between items-center">
             <div className={`text-3xl font-bold px-4 transition-colors duration-${DURATION} text-white hover:text-lime-300`}>
                 <Link href="/">
-                    C.A.
+                    Chandra Asar
                 </Link>
             </div>
             <nav className="">
